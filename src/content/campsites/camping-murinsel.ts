@@ -84,7 +84,7 @@ const campingMurinsel: CampsiteConfig = {
       {
         name: "Mietcaravan „Am Teich“",
         kind: "Mietcaravan direkt am Badeteich",
-        text: "Direkt am Badeteich mit eigenem Zugang: zwei Einzelbetten, gemütliche Sitzecke mit Umbaubett, TV und kleine Küche — Bettwäsche und Endreinigung gegen Gebühr.",
+        text: "Direkt am Badeteich mit eigenem Zugang, zwei Einzelbetten, Umbaubett, TV und Kochecke — Bettwäsche gegen Gebühr.",
         image: { src: `${IMG}/activity-cdbfbe942f.webp`, alt: "Innenraum des Mietcaravans Am Teich am Camping Murinsel" },
         priceFrom: 60,
         features: ["2 Einzelbetten", "Sitzecke / Umbaubett", "TV, Radio & Heizung", "Kochecke im Vorzelt", "Direkt am Badeteich"],
@@ -108,7 +108,7 @@ const campingMurinsel: CampsiteConfig = {
       "Vom Sprung in den Teich bis zum Waldbaden im angrenzenden Wald — viel passiert direkt am Platz oder gleich nebenan.",
     items: [
       { title: "Baden & SUP am Teich", text: "Der 1,5 ha große Teich wird im Sommer bis zu 25 Grad warm — ideal zum Abkühlen, Schwimmen und Paddeln.", image: { src: `${IMG}/gallery-d61ef19dfb.webp`, alt: "SUP-Boards am Ufer des Naturteichs mit Sonnenbaderin, Stellplätze im Hintergrund" } },
-      { title: "Waldbaden", text: "Im direkt angrenzenden Wald, von Terra Mater als „Wald der Zukunft“ gestaltet, kannst du mit einer Waldgesundheitstrainerin Waldbaden.", image: { src: `${IMG}/activity-c633c3431e.webp`, alt: "Waldbaden im Wald neben dem Camping Murinsel" } },
+      { title: "Waldbaden", text: "Im angrenzenden „Wald der Zukunft“ von Terra Mater erlebst du Waldbaden mit einer Waldgesundheitstrainerin.", image: { src: `${IMG}/activity-c633c3431e.webp`, alt: "Waldbaden im Wald neben dem Camping Murinsel" } },
     ],
   },
 
