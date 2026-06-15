@@ -29,7 +29,7 @@ const campingMurinsel: CampsiteConfig = {
 
   pillars: [
     { title: "Der Naturteich", text: "1,5 ha klares Wasser in Trinkwasserqualität, im Sommer bis 25 Grad warm — mitten am Platz.", image: { src: `${IMG}/gallery-151dc66d77.webp`, alt: "Naturteich am Camping Murinsel mit Badesteg" } },
-    { title: "Stellplätze am Wasser", text: "Plätze in erster Reihe mit direktem Teichzugang — morgens zuerst der Blick aufs Wasser.", image: { src: `${IMG}/gallery-f6d861289b.webp`, alt: "Wohnmobil-Stellplatz direkt am Teich der Murinsel" } },
+    { title: "Stellplätze am Wasser", text: "Plätze in erster Reihe mit direktem Teichzugang — morgens zuerst der Blick aufs Wasser.", image: { src: `${IMG}/activity-261b0f88f9.webp`, alt: "Wohnmobile an der Uferwiese des Naturteichs der Murinsel" } },
     { title: "Ruhe & Erholung", text: "Viel Freiraum auch in der Hochsaison, wenig Lichteinfluss und entspannte Atmosphäre.", image: { src: `${IMG}/gallery-363d96e4cd.webp`, alt: "Gäste entspannen auf Campingstühlen am Stellplatz neben dem Teich" } },
   ],
 
@@ -54,11 +54,12 @@ const campingMurinsel: CampsiteConfig = {
   saison: { von: "April", bis: "Oktober" },
 
   hero: {
-    aerial: { src: `${IMG}/gallery-784f61bed5.webp`, alt: "Camping Murinsel am Naturteich mit Bergblick im Murtal" },
+    aerial: { src: `${IMG}/gallery-8f8603ca41.webp`, alt: "Luftaufnahme Camping Murinsel am Naturteich im Murtal" },
+    image: { src: `${IMG}/gallery-784f61bed5.webp`, alt: "Camping Murinsel am Naturteich mit Bergblick im Murtal" },
   },
 
   breather: {
-    image: { src: `${IMG}/gallery-c5da71f3b4.webp`, alt: "Versorgerhaus der Murinsel hinter dem Teich, Berge im Hintergrund" },
+    image: { src: `${IMG}/gallery-d228ba500c.webp`, alt: "Sonnenblumen vor dem Murstüberl am Camping Murinsel" },
     line: "Wo sich die Bergspitzen der Umgebung im Wasser spiegeln.",
   },
 
@@ -68,7 +69,7 @@ const campingMurinsel: CampsiteConfig = {
       "80 durchschnittlich 100 m² große Plätze rund um den Teich, viele mit direktem Wasserzugang — alle mit Wasser-, Strom- und großteils Abwasseranschluss.",
     features: [
       { title: "Komfortstellplätze mit Bergblick", text: "Ebene, befestigte Plätze auf der Wiese oder am Teich — durchschnittlich 100 m² groß, mit Bergblick und PKW direkt am Platz.", image: { src: `${IMG}/gallery-6cb340319e.webp`, alt: "Stellplätze rund um den Teich mit Bergblick" } },
-      { title: "Barrierefreie Sanitäranlagen", text: "Zwei moderne, hochwertig ausgestattete Sanitärgebäude mit kostenlosen Warmwasserduschen, Haartrocknern und barrierefreiem Zugang.", image: { src: `${IMG}/amenity-2c0239e7e7.webp`, alt: "Moderne Sanitäranlage am Camping Murinsel" } },
+      { title: "Barrierefreie Sanitäranlagen", text: "Zwei moderne, hochwertig ausgestattete Sanitärgebäude mit kostenlosen Warmwasserduschen, Haartrocknern und barrierefreiem Zugang.", image: { src: `${IMG}/amenity-713c21f4c9.webp`, alt: "Helles modernes Sanitärgebäude mit Waschküche am Camping Murinsel" } },
       { title: "Waschküche & Wirtschaftsraum", text: "Abwaschmöglichkeiten, Waschmaschine und Trockner in den Sanitärgebäuden — alles sauber, gepflegt und nah am Platz.", image: { src: `${IMG}/amenity-50c1629fd0.webp`, alt: "Waschküche mit Waschmaschinen am Camping Murinsel" } },
       { title: "Hunde willkommen", text: "Eigener Hundebadebereich am Teich, Hundedusche und eingezäunte Gassiwiese — dein Vierbeiner campt selbstverständlich mit.", image: { src: `${IMG}/amenity-24984838dd.webp`, alt: "Gäste mit Hund auf dem Weg am Camping Murinsel" } },
       { title: "Radfahren am Murradweg", text: "Der Murradweg R2 führt direkt am Platz vorbei — kostenlose Rad- und Wanderkarten gibt es bei deiner Anreise.", image: { src: `${IMG}/gallery-b8c5800557.webp`, alt: "Fahrräder am Camping Murinsel beim Murradweg" } },
@@ -107,7 +108,7 @@ const campingMurinsel: CampsiteConfig = {
     intro:
       "Vom Sprung in den Teich bis zum Waldbaden im angrenzenden Wald — viel passiert direkt am Platz oder gleich nebenan.",
     items: [
-      { title: "Baden & SUP am Teich", text: "Der 1,5 ha große Teich wird im Sommer bis zu 25 Grad warm — ideal zum Abkühlen, Schwimmen und Paddeln.", image: { src: `${IMG}/gallery-d61ef19dfb.webp`, alt: "SUP-Boards am Ufer des Naturteichs mit Sonnenbaderin, Stellplätze im Hintergrund" } },
+      { title: "Baden & SUP am Teich", text: "Der 1,5 ha große Teich wird im Sommer bis zu 25 Grad warm — ideal zum Abkühlen, Schwimmen und Paddeln.", image: { src: `${IMG}/activity-910d847350.webp`, alt: "Person auf SUP-Board mit Hund auf dem Naturteich, Stellplätze am Ufer" } },
       { title: "Waldbaden", text: "Im angrenzenden „Wald der Zukunft“ von Terra Mater erlebst du Waldbaden mit einer Waldgesundheitstrainerin.", image: { src: `${IMG}/activity-c633c3431e.webp`, alt: "Waldbaden im Wald neben dem Camping Murinsel" } },
     ],
   },
@@ -130,8 +131,9 @@ const campingMurinsel: CampsiteConfig = {
     images: [
       { src: `${IMG}/gallery-7e1d036c10.webp`, alt: "Naturteich der Murinsel mit Kiesstrand im Herbst" },
       { src: `${IMG}/gallery-4287c291a0.webp`, alt: "Gemütliche Stube im Murstüberl" },
-      { src: `${IMG}/gallery-18c2913b00.webp`, alt: "Gäste entspannen am Stellplatz der Murinsel" },
-      { src: `${IMG}/gallery-1e694ac037.webp`, alt: "Versorgerhaus der Murinsel hinter dem Teich" },
+      { src: `${IMG}/gallery-807dda0311.webp`, alt: "Gäste entspannen am Stellplatz der Murinsel neben dem Wohnmobil" },
+      { src: `${IMG}/gallery-ed89d808ae.webp`, alt: "Naturteich der Murinsel mit Spiegelung und blauem Himmel" },
+      { src: `${IMG}/gallery-fcdae92cc1.webp`, alt: "Kleinkind spielt an der Sandkiste am Spielplatz der Murinsel" },
     ],
   },
 
