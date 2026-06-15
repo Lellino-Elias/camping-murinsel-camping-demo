@@ -55,7 +55,7 @@ const campingMurinsel: CampsiteConfig = {
 
   hero: {
     aerial: { src: `${IMG}/gallery-8f8603ca41.webp`, alt: "Luftaufnahme Camping Murinsel am Naturteich im Murtal" },
-    image: { src: `${IMG}/gallery-784f61bed5.webp`, alt: "Camping Murinsel am Naturteich mit Bergblick im Murtal" },
+    sunset: { src: `${IMG}/gallery-784f61bed5.webp`, alt: "Camping Murinsel am Naturteich mit Bergblick im Murtal" },
   },
 
   breather: {
